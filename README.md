@@ -6,7 +6,7 @@
 - 🤖 Exploring Artificial Intelligence, Data Science, and Generative AI  
 - 🌱 Currently learning: Python for AI/ML, Data Analysis, and ML fundamentals  
 - 💬 Ask me about AI concepts, learning resources, or beginner ML projects  
-- 📫 Reach me at: your.email@example.com  
+- 📫 Reach me at: saketpathakitsme@gmail.com  
 - ⚡ Fun fact: I'm driven by curiosity and love building practical AI-powered solutions!
 
 ---
