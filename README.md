@@ -2,7 +2,7 @@
 
 **A passionate CSE undergrad exploring AI, Data Science, and GenAI**
 
-- 🎓 I'm a B.Tech Computer Science student (4th semester)  
+- 🎓 I'm a B.Tech Computer Science student 
 - 🤖 Exploring Artificial Intelligence, Data Science, and Generative AI  
 - 🌱 Currently learning: Python for AI/ML, Data Analysis, and ML fundamentals  
 - 💬 Ask me about AI concepts, learning resources, or beginner ML projects  
