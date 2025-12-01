@@ -72,42 +72,15 @@ inspired by calm anime aesthetics and clean digital minimalism.
 
 ---
 
-# 🧊 GitHub Stats  
-![Saket's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saket-Pathak&show_icons=true&theme=tokyonight&hide_border=true)
+# 📊 GitHub Stats  
+*(Using fully working mirror URLs — no broken images)*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saket-Pathak&theme=tokyonight&hide_border=true)
+![Saket's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saket-Pathak&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🌸 Most Used Languages  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saket-Pathak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
----
-
-# 🫧 Contribution Flow  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saket-Pathak&theme=react-dark&hide_border=true)
-
----
-
-# 🔧 Skill Overview  
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F57F17?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
 
 ---
 
