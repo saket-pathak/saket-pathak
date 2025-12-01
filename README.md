@@ -14,7 +14,7 @@
 ## 🌙 About Me
 I am **Saket**, a curiosity-driven developer passionate about  
 **AI, Data Science, Machine Learning, and GenAI** —  
-inspired by calm anime aesthetics and clean digital minimalism.
+inspired to make real world ,people oriented solutions of present and future.
 
 - 🎓 B.Tech CSE  
 - 🤖 Learning ML, AI & Data Analytics  
@@ -101,9 +101,6 @@ inspired by calm anime aesthetics and clean digital minimalism.
 
 ---
 
-<p align="center" style="color:#9aa6c5; font-style: italic;">
-  Calm gradients • Clean layout • minimal aesthetics 🌸  
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saket-Pathak&color=ff8fab&style=for-the-badge">
