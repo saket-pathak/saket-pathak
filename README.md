@@ -12,36 +12,47 @@
 ---
 
 ## 🌙 About Me
-I’m **Saket**, a curiosity-driven developer passionate about **AI, Data Science, GenAI**, and building clean, elegant, future-themed solutions.
+I am **Saket**, a curiosity-driven developer passionate about  
+**AI, Data Science, Machine Learning, and GenAI** —  
+inspired by calm anime aesthetics and clean digital minimalism.
 
 - 🎓 B.Tech CSE  
-- 🤖 Learning AI, ML & Data Analytics  
-- 🚀 Building AI-powered features & tools  
-- ☕ Calm code. Clean design. Anime-inspired aesthetics.  
+- 🤖 Learning ML, AI & Data Analytics  
+- 🌱 Building AI-powered tools  
+- ✨ Aesthetic-driven, detail-oriented approach  
+
+---
+
+# 🔖 Credentials
+<p align="center">
+  <a href="https://www.credly.com/users/saket-pathak.4351a243/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Credly-Badges-00A3E0?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+  </a>
+</p>
 
 ---
 
 # 🎐 Tech Stack
 
-## 👨‍💻 **Programming Languages**
+## 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-ffe873?style=for-the-badge&logo=python&logoColor=3776ab)
 ![C](https://img.shields.io/badge/C_language-003B57?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-## 🧪 **Data Science & Machine Learning**
-![Numpy](https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white)
+## 🧪 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9C27B0?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F57F17?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🌐 **Web Development**
+## 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=000)
@@ -51,7 +62,7 @@ I’m **Saket**, a curiosity-driven developer passionate about **AI, Data Scienc
 
 ---
 
-## 🛠️ **Tools & Platforms**
+## 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -61,37 +72,41 @@ I’m **Saket**, a curiosity-driven developer passionate about **AI, Data Scienc
 
 ---
 
-# 🧊 GitHub Stats (Anime-Aesthetic)
+# 🧊 GitHub Stats  
+![Saket's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saket-Pathak&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saket-Pathak&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-</p>  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saket-Pathak&theme=tokyonight&hide_border=true" width="450"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Saket-Pathak&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🌸 Most Used Languages  
-*(Updated link version – works reliably)*  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-Pathak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="390"/>
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saket-Pathak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🫧 Contribution Flow  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket-Pathak&theme=react-dark&hide_border=true"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saket-Pathak&theme=react-dark&hide_border=true)
 
 ---
 
-# 🧭 Skill Overview  
+# 🔧 Skill Overview  
 <p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Saket-Pathak&skills=Python,C,C++,C#,JavaScript,HTML,CSS,Numpy,Pandas,Scikit-learn,Jupyter,React,Node.js&theme=tokyonight"/>
+  
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F57F17?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
 
 ---
@@ -99,7 +114,7 @@ I’m **Saket**, a curiosity-driven developer passionate about **AI, Data Scienc
 # 🌐 Connect With Me  
 - 📧 Email: **saketpathakitsme@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/saket-pathak-34875128b](https://www.linkedin.com/in/saket-pathak-34875128b/)  
-- 🌍 Portfolio: Coming soon  
+- 🌍 Portfolio: *Coming soon*  
 
 ---
 
