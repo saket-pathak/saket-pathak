@@ -14,7 +14,7 @@
 ## 🌙 About Me
 I am **Saket**, a curiosity-driven developer passionate about  
 **AI, Data Science, Machine Learning, and GenAI** —  
-inspired to make real world ,people oriented solutions of present and future.
+inspired to make real-world, people-oriented solutions for the present and future.
 
 - 🎓 B.Tech CSE  
 - 🤖 Learning ML, AI & Data Analytics  
@@ -38,7 +38,7 @@ inspired to make real world ,people oriented solutions of present and future.
 ![Python](https://img.shields.io/badge/Python-ffe873?style=for-the-badge&logo=python&logoColor=3776ab)
 ![C](https://img.shields.io/badge/C_language-003B57?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 
 ---
@@ -46,8 +46,7 @@ inspired to make real world ,people oriented solutions of present and future.
 ## 🧪 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9C27B0?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F57F17?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
@@ -66,8 +65,7 @@ inspired to make real world ,people oriented solutions of present and future.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -80,14 +78,12 @@ inspired to make real world ,people oriented solutions of present and future.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Numpy-6A5ACD?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F57F17?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  
 
 </p>
 
@@ -96,7 +92,7 @@ inspired to make real world ,people oriented solutions of present and future.
 # 🌐 Connect With Me  
 - 📧 Email: **saketpathakitsme@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/saket-pathak-34875128b](https://www.linkedin.com/in/saket-pathak-34875128b/)  
-- 🌍 Portfolio: *Coming soon*  
+
 
 ---
 
