@@ -97,6 +97,4 @@ inspired to make real-world, people-oriented solutions for the present and futur
 ---
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saket-Pathak&color=ff8fab&style=for-the-badge">
-</p>
+
