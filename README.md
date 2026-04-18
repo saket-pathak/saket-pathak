@@ -23,15 +23,6 @@ inspired to make real-world, people-oriented solutions for the present and futur
 
 ---
 
-# 🔖 Credentials
-<p align="center">
-  <a href="https://www.credly.com/users/saket-pathak.4351a243/badges" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Credly-Badges-00A3E0?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
-  </a>
-</p>
-
----
-
 # 🎐 Tech Stack
 
 ## 👨‍💻 Programming Languages
