@@ -12,20 +12,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saket+Pathak+%F0%9F%8C%99;CSE+Undergrad+%40+B.Tech;AI+%26+ML+Explorer;GenAI+Builder;Curiosity-driven+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saket+Pathak;CSE+Undergrad+%40+B.Tech;AI+%26+ML+Explorer;GenAI+Builder;Curiosity-driven+Dev" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="mailto:saketpathakitsme@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=22C55E"/>
   </a>
   <a href="https://www.linkedin.com/in/saket-pathak-34875128b/">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
   </a>
   <a href="https://github.com/saketpathak">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=22C55E"/>
   </a>
 </div>
 
@@ -50,42 +50,51 @@ saket = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A78BFA)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A78BFA)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=22C55E)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=22C55E)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=22C55E)
 
 **AI / Data Science**
 
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=A78BFA)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=22C55E)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=22C55E)
 
 **Web Stack**
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=A78BFA)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=A78BFA)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=A78BFA)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=A78BFA)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=A78BFA)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=22C55E)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=22C55E)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=22C55E)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=22C55E)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=22C55E)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=A78BFA)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
-![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=22C55E)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=22C55E)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E)
+![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=22C55E)
 
 ---
 
 ## `> git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketpathak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketpathak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saketpathak&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22C55E&icon_color=22C55E&text_color=86efac&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketpathak&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=86efac&langs_count=6" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saketpathak&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <img src="https://streak-stats.demolab.com?user=saketpathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketpathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
 </div>
 
 ---
@@ -115,7 +124,7 @@ saket = {
 ```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saketpathak&style=for-the-badge&color=111827&label=PROFILE+VIEWS&labelColor=111827" />
+  <img src="https://komarev.com/ghpvc/?username=saketpathak&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS&labelColor=0a0a0a" />
 </div>
 
 <br/>
