@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/saket-pathak-34875128b/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
   </a>
-  <a href="https://github.com/saketpathak">
+  <a href="https://github.com/saket-pathak">
     <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=22C55E"/>
   </a>
 </div>
@@ -80,21 +80,21 @@ saket = {
 ## `> git log --stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saketpathak&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22C55E&icon_color=22C55E&text_color=86efac&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22C55E&icon_color=22C55E&text_color=86efac&count_private=true&include_all_commits=true" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketpathak&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=86efac&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-pathak&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=86efac&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saketpathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80" />
+  <img src="https://streak-stats.demolab.com?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketpathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saket-pathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
 </div>
 
 ---
@@ -120,11 +120,11 @@ saket = {
 ```
   📧  saketpathakitsme@gmail.com
   🔗  linkedin.com/in/saket-pathak-34875128b
-  💻  github.com/saketpathak
+  💻  github.com/saket-pathak
 ```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saketpathak&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS&labelColor=0a0a0a" />
+  <img src="https://komarev.com/ghpvc/?username=saket-pathak&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS&labelColor=0a0a0a" />
 </div>
 
 <br/>
