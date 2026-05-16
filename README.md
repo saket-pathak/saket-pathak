@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ██╗  ██╗███████╗████████╗
-██╔════╝██╔══██╗██║ ██╔╝██╔════╝╚══██╔══╝
-███████╗███████║█████╔╝ █████╗     ██║   
-╚════██║██╔══██║██╔═██╗ ██╔══╝     ██║   
-███████║██║  ██║██║  ██╗███████╗   ██║   
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝  
+███████╗ █████╗ ██╗  ██╗███████╗████████╗    ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ██╗  ██╗
+██╔════╝██╔══██╗██║ ██╔╝██╔════╝╚══██╔══╝    ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██║ ██╔╝
+███████╗███████║█████╔╝ █████╗     ██║       ██████╔╝███████║   ██║   ███████║███████║█████╔╝ 
+╚════██║██╔══██║██╔═██╗ ██╔══╝     ██║       ██╔═══╝ ██╔══██║   ██║   ██╔══██║██╔══██║██╔═██╗ 
+███████║██║  ██║██║  ██╗███████╗   ██║       ██║     ██║  ██║   ██║   ██║  ██║██║  ██║██║  ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 </div>
@@ -80,9 +80,9 @@ saket = {
 ## `> git log --stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22C55E&icon_color=22C55E&text_color=86efac&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saket-pathak&theme=github_dark" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-pathak&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=86efac&langs_count=6" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saket-pathak&theme=github_dark" />
 </div>
 
 <br/>
