@@ -27,6 +27,9 @@
   <a href="https://github.com/saket-pathak">
     <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=22C55E"/>
   </a>
+  <a href="https://leetcode.com/u/Saket_pathak/">
+    <img src="https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+  </a>
 </div>
 
 ---
@@ -88,13 +91,21 @@ saket = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80" />
+  <img src="https://streak-stats.demolab.com?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80&timezone=Asia%2FKolkata" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saket-pathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
+</div>
+
+---
+
+## `> leetcode --stats`
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Saket_pathak?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0a0a0a&border_color=22C55E" />
 </div>
 
 ---
@@ -121,6 +132,7 @@ saket = {
   📧  saketpathakitsme@gmail.com
   🔗  linkedin.com/in/saket-pathak-34875128b
   💻  github.com/saket-pathak
+  🧩  leetcode.com/u/Saket_pathak
 ```
 
 <div align="center">
