@@ -38,15 +38,11 @@
 
 <div align="center">
 
-<a href="YOUR_GSSOC_PROFILE_LINK">
-  <img src="./gssoc-badge-role_contributor.png" width="220"/>
-</a>
+<img src="gssoc-badge-role_contributor.png" width="220"/>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_GSSOC_PROFILE_LINK">
-  <img src="./gssoc-badge-point_scorer.png" width="220"/>
-</a>
+<img src="gssoc-badge-point_scorer.png" width="220"/>
 
 </div>
 
@@ -55,7 +51,6 @@
 </div>
 
 ---
-
 ## `> whoami`
 
 ```python
