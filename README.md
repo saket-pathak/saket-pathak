@@ -34,6 +34,28 @@
 
 ---
 
+## `> open_source --gssoc`
+
+<div align="center">
+
+<a href="YOUR_GSSOC_PROFILE_LINK">
+  <img src="./gssoc-badge-role_contributor.png" width="220"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_GSSOC_PROFILE_LINK">
+  <img src="./gssoc-badge-point_scorer.png" width="220"/>
+</a>
+
+</div>
+
+<div align="center">
+  <sub>Contributor at GSSoC 2026 🚀</sub>
+</div>
+
+---
+
 ## `> whoami`
 
 ```python
