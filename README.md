@@ -38,11 +38,11 @@
 
 <div align="center">
 
-<img src="gssoc-badge-role_contributor.png" width="220"/>
+<img src="https://raw.githubusercontent.com/saket-pathak/saket-pathak/main/gssoc-badge-role_contributor.png" width="220"/>
 
 &nbsp;&nbsp;&nbsp;
 
-<img src="gssoc-badge-point_scorer.png" width="220"/>
+<img src="https://raw.githubusercontent.com/saket-pathak/saket-pathak/main/gssoc-badge-point_scorer.png" width="220"/>
 
 </div>
 
