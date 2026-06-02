@@ -47,7 +47,6 @@
 </div>
 
 ---
-
 ## `> whoami`
 
 ```python
@@ -105,7 +104,7 @@ saket = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22C55E&icon_color=22C55E&text_color=86efac&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80&timezone=Asia%2FKolkata" />
 </div>
 
 <br/>
