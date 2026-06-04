@@ -110,7 +110,7 @@ saket = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saket-pathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
+  <img src="https://ghchart.rshah.org/22C55E/saket-pathak" alt="Saket's GitHub chart" />
 </div>
 
 ---
