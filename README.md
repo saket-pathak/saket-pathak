@@ -47,6 +47,7 @@
 </div>
 
 ---
+
 ## `> whoami`
 
 ```python
@@ -96,9 +97,9 @@ saket = {
 ## `> git log --stats`
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saket-pathak&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&icon_color=22C55E&title_color=22C55E&text_color=ffffff" />
   &nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saket-pathak&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-pathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=ffffff" />
 </div>
 
 <br/>
@@ -110,7 +111,7 @@ saket = {
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/22C55E/saket-pathak" alt="Saket's GitHub chart" />
+  <img src="https://ghchart.rshah.org/22C55E/saket-pathak" alt="Saket's GitHub Contribution Chart" />
 </div>
 
 ---
