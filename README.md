@@ -97,7 +97,7 @@ saket = {
 ## `> git log --stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&icon_color=22C55E&title_color=22C55E&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saket-pathak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&icon_color=22C55E&title_color=22C55E&text_color=ffffff&count_private=true" />
   &nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-pathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22C55E&text_color=ffffff" />
 </div>
@@ -105,13 +105,13 @@ saket = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80&timezone=Asia%2FKolkata" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=saket-pathak&theme=dark&hide_border=true&background=0a0a0a&ring=22C55E&fire=4ade80&currStreakLabel=22C55E&sideLabels=86efac&dates=6b7280&sideNums=22C55E&currStreakNum=4ade80&timezone=Asia%2FKolkata" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/22C55E/saket-pathak" alt="Saket's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saket-pathak&bg_color=0a0a0a&color=22C55E&line=22C55E&point=4ade80&area=true&area_color=22C55E&hide_border=true" />
 </div>
 
 ---
