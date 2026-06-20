@@ -34,19 +34,6 @@
 
 ---
 
-## `> open_source --gssoc`
-
-<div align="center">
-
-<img src="https://github.com/saket-pathak/saket-pathak/blob/main/gssoc-badge-role_contributor.png?raw=true" width="220"/> <img src="https://github.com/saket-pathak/saket-pathak/blob/main/gssoc-badge-point_scorer.png?raw=true" width="220"/>
-
-</div>
-
-<div align="center">
-  <sub>Contributor at GSSoC 2026 🚀</sub>
-</div>
-
----
 
 ## `> whoami`
 
